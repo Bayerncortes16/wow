@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.negro {
+    background-color: black;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+}
+
+.blanco {
+    background-color: white;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+}
